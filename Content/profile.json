@@ -3,7 +3,7 @@
   "Name": "Leslie Garcia",
   "Currently": "Mechanical Engineering Graduate",
   "Headshot": "student-portrait.png",
-  "Thumbnail": "student-portrait.png",
+  "Thumbnail": "student-logo.webp",
   "AboutText": "Hi, I'm Leslie Garcia, a mechanical engineering graduate from Seattle Pacific University motivated for growth and want to help bring innovation. I am currently preparing to take the Fundamentals of Engineering (FE) exam. I have experience in collaberative projects that require attention to detail, orginization, as well as creativity. I would like to expand my knowledge and skills in various areas of the mechanical engineering industry.<br><br>Beyond engineering, I enjoy playing the violin, baking royal icing sugar cookies, and volunteering at my church. I enjoy using my skills in multiple forms. From the attention to details with icing cookies and document drafting or the creativity that comes with playing violin and design development of a protoype -- strengtens my abilities to adapt and approach problems from a unique perpective to the engineering field."
 },
 "Contact": {
@@ -21,7 +21,7 @@
   "EducationText": "Graduated with a Bachelor of Science in Mechanical Engineering where I worked in interdisipinary teams during my junior and senior year. My senior capstone project involved not only designing and fabrication, but also project managment. Weekly progress reports involved bill of materials, risk midigation and project timeline,. This project was awarded best oral presentation at the 23rd Erickson Conference. I also competed in the 2025 Social Venture Competition presenting with my peers an automatic stepstool they had made and recieved positive feedback by the judges and guests on effectively presenting the social impact and innovation.",
   "Employment": "Wood Harbinger",
   "Role": "Mechanical Intern",
-  "EmploymentText": "Use this to add some narrative to your employment section",
+  "EmploymentText": "During my time here, I not only got to do design work and load calculations, but I also got very expereicned in comissioning tasks. I created installation checklists and functional tests documents. I became proficent in looking at the contruction documents  ",
   "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
   "SkillsText": "Use this to add some narrative to your skills section",
   "Resume": "student-resume.pdf"  
