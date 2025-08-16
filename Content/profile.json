@@ -23,7 +23,7 @@
   "Role": "Mechanical Intern",
   "EmploymentText": "During my time here, I not only got to do design work and load calculations, but I also got very experiecned in comissioning tasks. Doing these tasks helped me learn more about HVAC systems and how they operate. I created installation checklists and functional tests on multiple projects at a time and became proficent in reading contruction documents. I had the oppertunity to go on site to see a project's process for myself and interact with the people involved such as the aritect and client. I also partisipated in an existing conditions assessment on site as well. This included going into the attic to take note of the vent layout and assess the air handling unit. ",
   "Skills": ["SOLIDWORKS, AutoCAD, Revit, MATLAB, Excel, Trace, LabVIEW"],
-  "SkillsText": "I am very experienced in using SOILDWORKS to design and print. I have a small amount of experience in SOLIDWORKS finite element Anaysis (FEA) and animation. I did basic task on AutoCAD",
+  "SkillsText": "I am very experienced in using SOILDWORKS to design and print. I have a small amount of experience in SOLIDWORKS finite element Anaysis (FEA) and animation. I did basic tasks AutoCAD and revit.<br><br>I have 2 years of experience with MATLAB. I created a MATLAB scripted that predicted system behavior in a budget DIY AC. I also used MATLAB for spatial descriptions and translation of a theoretical robot arm.<br><br>I learned the basics of LabVEIW in Experimental methods in exercises such as caculating terminal velocity and graphing the vertical position of a point on a moving bicyclewheel as a function of time.",
   "Resume": "Resume-Leslie_Garcia.pdf"  
 },
 "Project1": {
