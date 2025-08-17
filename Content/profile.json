@@ -27,8 +27,8 @@
   "Resume": "Resume-Leslie_Garcia.pdf"  
 },
 "Project1": {
-    "Title": "Regenerative Braking System",
-    "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
+    "Title": "CoastClear",
+    "Desc": "Senior Design Capstone project of a beach cleaning robot with an interdisiplinary team of mechanical, electrical, and computer engineering students.<br><br>It has a GitHub repo and more details shown in screenshots.",
     "GitHubRepo": "https://github.com",
     "MainImage": "P1Main.png",
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
