@@ -4,7 +4,7 @@
     "Currently": "Mechanical Engineering Graduate",
     "Headshot": "student-portrait.png",
     "Thumbnail": "student-logo.webp",
-    "AboutText": "Hi, I'm Leslie Garcia, a mechanical engineering graduate from Seattle Pacific University motivated for growth and want to help bring innovation. I am currently preparing to take the Fundamentals of Engineering (FE) exam. I have experience in collaberative projects that require attention to detail, orginization, as well as creativity. I would like to expand my knowledge and skills in various areas of the mechanical engineering industry.<br><br>Beyond engineering, I enjoy playing the violin, baking royal icing sugar cookies, and volunteering at my church. I enjoy using my skills in multiple forms. From the attention to detail with icing cookies and document drafting or the creativity that comes with playing violin and design development of a protoype — this strengtens my abilities to adapt and approach problems from a unique perpective to the engineering field.",
+    "AboutText": "Hi, I'm Leslie Garcia, a mechanical engineering graduate from Seattle Pacific University motivated for growth and want to help bring innovation. I am currently preparing to take the Fundamentals of Engineering (FE) exam. I have experience in collaberative projects that require attention to detail, orginization, as well as creativity. I would like to expand my knowledge and skills in various areas of the mechanical engineering industry.<br><br>Beyond engineering, I enjoy playing the violin, baking royal icing sugar cookies, and volunteering at my church. I enjoy using my skills in multiple forms. From the attention to detail with icing cookies and document drafting or the creativity that comes with playing violin and design development of a protoype — this strengtens my abilities to adapt and approach problems from a unique perpective to the engineering field."
   },
   "Contact": {
     "EMail": "garcialesliea@gmail.com",
@@ -34,7 +34,7 @@
   },
   "Project2": {
     "Title": "Thermal Design Exploration with MATLAB",
-    "Desc": "Heat Tranfer group project utilizing MATLAB. We were taksed to find the mathmatical models for our DIY air conditioner, create a scipt to automize it to predict behavior of different variables, and compare them to our experimental data."
+    "Desc": "Heat Tranfer group project utilizing MATLAB. We were tasked to find the mathmatical models for our DIY air conditioner, create a scipt to automize it to predict behavior of different variables, and compare them to our experimental data.",
     "GitHubRepo": "https://github.com",
     "MainImage": "P2Main.png"
   },
