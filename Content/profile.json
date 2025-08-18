@@ -34,8 +34,8 @@
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
   },
   "Project2": {
-    "Title": "CoastClear",
-    "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
+    "Title": "Thermal Design Exploration with MATLAB",
+    "Desc": ""Heat Tranfer group project utilizing MATLAB. We were taksed to find the mathmatical models for our DIY air conditioner, create a scipt to automize it to predict behavior of different variables, and compare them to our experimental data.
     "GitHubRepo": "https://github.com",
     "MainImage": "P2Main.png",
     "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
