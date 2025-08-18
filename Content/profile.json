@@ -1,48 +1,48 @@
 {
-"About": {
-  "Name": "Leslie Garcia",
-  "Currently": "Mechanical Engineering Graduate",
-  "Headshot": "student-portrait.png",
-  "Thumbnail": "student-logo.webp",
-  "AboutText": "Hi, I'm Leslie Garcia, a mechanical engineering graduate from Seattle Pacific University motivated for growth and want to help bring innovation. I am currently preparing to take the Fundamentals of Engineering (FE) exam. I have experience in collaberative projects that require attention to detail, orginization, as well as creativity. I would like to expand my knowledge and skills in various areas of the mechanical engineering industry.<br><br>Beyond engineering, I enjoy playing the violin, baking royal icing sugar cookies, and volunteering at my church. I enjoy using my skills in multiple forms. From the attention to detail with icing cookies and document drafting or the creativity that comes with playing violin and design development of a protoype — this strengtens my abilities to adapt and approach problems from a unique perpective to the engineering field."
-},
-"Contact": {
-  "EMail": "garcialesliea@gmail.com",
-  "Phone": "425-773-0857",
-  "Portfolio": "https://leslie-a-garcia.github.io/",
-  "LinkedIn": "https://www.linkedin.com/in/leslie-garcia-670723250/",
-  "GitHub": "https://github.com/Leslie-A-Garcia"
-},
-"Experience": {
-  "School": "Seattle Pacific University",
-  "Major": "Mechanical Engineering",
-  "Graduation": "June 2025",
-  "EducationText": "Graduated with a Bachelor of Science in Mechanical Engineering where I worked in interdisipinary teams during my junior and senior year. My senior capstone project involved not only designing and fabrication, but also project managment. Weekly progress reports involved bill of materials, risk midigation and project timeline,. This project was awarded best oral presentation at the 23rd Erickson Conference. I also competed in the 2025 Social Venture Competition presenting with my peers an automatic stepstool they had made and recieved positive feedback by the judges and guests on effectively presenting the social impact and innovation.",
-  "Employment": "Wood Harbinger",
-  "Role": "Mechanical Intern",
-  "EmploymentText": "During my time here, I not only got to do design work and load calculations, but I also got very experiecned in comissioning tasks. Doing these tasks helped me learn more about HVAC systems and how they operate. I created installation checklists and functional tests on multiple projects at a time and became proficent in reading contruction documents. I had the oppertunity to go on site to see a project's process for myself and interact with the people involved such as the aritect and client. I also partisipated in an existing conditions assessment on site as well. This included going into the attic to take note of the vent layout and assess the air handling unit. ",
-  "Skills": ["SOLIDWORKS", "AutoCAD", "Revit", "MATLAB", "Excel", "Trace", "LabVIEW"],
-  "SkillsText": "I am very experienced in using SOILDWORKS to design and print. I have a small amount of experience in SOLIDWORKS finite element Anaysis (FEA) and animation. I did basic tasks AutoCAD and revit.<br><br>I have 2 years of experience with MATLAB. I created a MATLAB scripted that predicted system behavior in a budget DIY AC. I also used MATLAB for spatial descriptions and translation of a theoretical robot arm.<br><br>I learned the basics of LabVEIW in Experimental methods in exercises such as caculating terminal velocity and graphing the vertical position of a point on a moving bicyclewheel as a function of time.",
-  "Resume": "Resume-Leslie_Garcia.pdf"  
-},
-"Project1": {
+  "About": {
+    "Name": "Leslie Garcia",
+    "Currently": "Mechanical Engineering Graduate",
+    "Headshot": "student-portrait.png",
+    "Thumbnail": "student-logo.webp",
+    "AboutText": "Hi, I'm Leslie Garcia, a mechanical engineering graduate from Seattle Pacific University motivated for growth and wanting to help bring innovation. I am currently preparing to take the Fundamentals of Engineering (FE) exam and seeking opportunities to apply my skills in real-world settings. TODO: complete this description."
+  },
+  "Contact": {
+    "EMail": "garcialesliea@gmail.com",
+    "Phone": "425-773-0857",
+    "Portfolio": "https://leslie-a-garcia.github.io/",
+    "LinkedIn": "https://www.linkedin.com/in/leslie-garcia-670723250/",
+    "GitHub": "https://github.com/Leslie-A-Garcia"
+  },
+  "Experience": {
+    "School": "Seattle Pacific University",
+    "Major": "Mechanical Engineering",
+    "Graduation": "June 2025",
+    "EducationText": "Graduated with a Bachelor of Science in Mechanical Engineering where I worked in interdisciplinary teams during my junior and senior year. My senior capstone project involved not only technical skills but also collaboration and project management. TODO: complete this description.",
+    "Employment": "Wood Harbinger",
+    "Role": "Mechanical Intern",
+    "EmploymentText": "During my time here, I not only did design work and load calculations, but I also became experienced in commissioning tasks. Doing these tasks helped me learn more about HVAC systems and project documentation. TODO: complete this description.",
+    "Skills": ["SOLIDWORKS", "AutoCAD", "Revit", "MATLAB", "Excel", "Trace", "LabVIEW"],
+    "SkillsText": "I am very experienced in using SOLIDWORKS to design and 3D print. I have some experience in SOLIDWORKS finite element analysis (FEA) and animation. I did basic tasks in AutoCAD, Revit, and Trace. I am proficient in MATLAB and Excel, and have basic skills in LabVIEW. TODO: complete this description.",
+    "Resume": "Resume-Leslie_Garcia.pdf"
+  },
+  "Project1": {
     "Title": "CoastClear",
-    "Desc": "Senior Design Capstone project of a beach cleaning robot with an interdisiplinary team of mechanical, electrical, and computer engineering students.",
+    "Desc": "Senior Design Capstone project of a beach cleaning robot with an interdisciplinary team of mechanical, electrical, and computer engineering students.",
     "GitHubRepo": "https://github.com",
     "MainImage": "P1Main.png",
-    "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
+    "DetailImages": ["P1Detail1.png", "P1Detail2.png", "P1Detail3.png"]
   },
   "Project2": {
     "Title": "Thermal Design Exploration with MATLAB",
-    "Desc": "Heat Tranfer group project utilizing MATLAB. We were taksed to find the mathmatical models for our DIY air conditioner, create a scipt to automize it to predict behavior of different variables, and compare them to our experimental data."
+    "Desc": "Heat Transfer group project utilizing MATLAB. We were tasked to find the mathematical models for our DIY air conditioner, create a script to automate predictions for different variables. TODO: complete this description.",
     "GitHubRepo": "https://github.com",
-    "MainImage": "P2Main.png",
+    "MainImage": "P2Main.png"
   },
   "Project3": {
     "Title": "Experimental Methods I",
-    "Desc": "Classwork from experimental methods course to gain basic experience in LabVEIW",
+    "Desc": "Classwork from experimental methods course to gain basic experience in LabVIEW. TODO: complete this description.",
     "GitHubRepo": "",
-    "MainImage": "P3Main.png",
+    "MainImage": "P3Main.png"
   },
   "Project4": {
     "Title": "",
